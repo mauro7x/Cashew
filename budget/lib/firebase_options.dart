@@ -47,30 +47,31 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBGiaRl72d4k3Ki0dh8ra-gU4v2z04CgIw',
-    appId: '1:267621253497:web:12558fe9abebf7fa842fa8',
-    messagingSenderId: '267621253497',
-    projectId: 'budget-app-flutter',
-    authDomain: 'budget-app-flutter.firebaseapp.com',
-    storageBucket: 'budget-app-flutter.appspot.com',
+    apiKey: 'AIzaSyA0gm-LuE1-Xzq7IgcnJd90ntLQ3gMCQ3o',
+    appId: '1:854545757786:web:2e85c91bc3971fd3e38a63',
+    messagingSenderId: '854545757786',
+    projectId: 'cashew-but-better',
+    authDomain: 'cashew-but-better.firebaseapp.com',
+    storageBucket: 'cashew-but-better.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDNVDtwGJUHBZohwB2RDeUco-5hAGfx2bA',
-    appId: '1:267621253497:android:e7a2967eaf8dd072842fa8',
-    messagingSenderId: '267621253497',
-    projectId: 'budget-app-flutter',
-    storageBucket: 'budget-app-flutter.appspot.com',
+    apiKey: 'AIzaSyBd3oY5-cIo0dRvpqFYfil3rKYAJTjsUc8',
+    appId: '1:854545757786:android:24c0baf05cda4264e38a63',
+    messagingSenderId: '854545757786',
+    projectId: 'cashew-but-better',
+    storageBucket: 'cashew-but-better.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBts7THLrbIh-xReN70k5AsknAMwBNhrD0',
-    appId: '1:267621253497:ios:17af91fbac7c01b9842fa8',
-    messagingSenderId: '267621253497',
-    projectId: 'budget-app-flutter',
-    storageBucket: 'budget-app-flutter.appspot.com',
-    androidClientId: '267621253497-0h976snjlf34gs8m75bh8nik8gcvr2mk.apps.googleusercontent.com',
-    iosClientId: '267621253497-ih94g1srq37gun4mdmvadgl3ev588vpf.apps.googleusercontent.com',
-    iosBundleId: 'com.budget.tracker-app',
+    apiKey: 'AIzaSyCl_IVwhQb3tPQytxJTeJEMWSXUVFYKvL0',
+    appId: '1:854545757786:ios:8c5c02758ab3c346e38a63',
+    messagingSenderId: '854545757786',
+    projectId: 'cashew-but-better',
+    storageBucket: 'cashew-but-better.firebasestorage.app',
+    androidClientId: '854545757786-3bp0dgf7pv5pjucfm1vj6t4508pspdos.apps.googleusercontent.com',
+    iosClientId: '854545757786-eskso332hjn5fh0sui5oa1rhbc3tf7nn.apps.googleusercontent.com',
+    iosBundleId: 'com.budget.budget.RunnerTests',
   );
+
 }

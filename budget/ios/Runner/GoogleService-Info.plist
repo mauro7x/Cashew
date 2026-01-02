@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>854545757786-eskso332hjn5fh0sui5oa1rhbc3tf7nn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.854545757786-eskso332hjn5fh0sui5oa1rhbc3tf7nn</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>854545757786-3bp0dgf7pv5pjucfm1vj6t4508pspdos.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCl_IVwhQb3tPQytxJTeJEMWSXUVFYKvL0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>854545757786</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.budget.budget.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>cashew-but-better</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cashew-but-better.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:854545757786:ios:8c5c02758ab3c346e38a63</string>
+</dict>
+</plist>
